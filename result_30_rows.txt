@@ -18,8 +18,8 @@ main-archive-internet	131
 main-rabota-news	129
 main-internet-rabota	128
 main-archive-news	125
-main-internet-archive	123
 main-rabota-internet	123
+main-internet-archive	123
 main-archive-bonus	117
 main-internet-bonus	114
 main-tariffs-internet	113
